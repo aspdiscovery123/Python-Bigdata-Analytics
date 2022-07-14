@@ -1,0 +1,2 @@
+machine learning and bigdata analytics using apache hadoop, spark and awsAWS iot core service used to impliment iot
+ AWS iot core service used to impliment iot
