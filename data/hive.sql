@@ -17,6 +17,6 @@ max(charges) as max_charges,
 min(age) as min_age,
 min(bmi) as min_bmi,
 min(charges) as min_charges
-from insurance;
+from insurance
 group by smoker;
 
